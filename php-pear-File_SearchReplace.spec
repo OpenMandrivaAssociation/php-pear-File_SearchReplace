@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - performs search and replace routines
 Name:		php-pear-%{_pearname}
-Version:	1.1.0
+Version:	1.1.2
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
