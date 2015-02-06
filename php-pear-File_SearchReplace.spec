@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.4
-Release:	4
+Release:	5
 Summary:	Performs search and replace routines
 License:	PHP License
 Group:		Development/PHP
